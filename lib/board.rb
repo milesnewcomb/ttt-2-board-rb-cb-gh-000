@@ -1,2 +1,28 @@
-# Define the variable board below.
-board = [" ", " " , " ", " ", " ", " ", " ", " ", " "]
+phrase = "Hello World"
+puts phrase if condition
+  
+end
+puts phrase if condition
+  
+end
+puts phrase if condition
+  
+end
+puts phrase if condition
+  
+end
+puts phrase if condition
+  
+end
+puts phrase if condition
+  
+end
+puts phrase if condition
+  
+end
+puts phrase if condition
+  
+end
+puts phrase if condition
+  
+end
